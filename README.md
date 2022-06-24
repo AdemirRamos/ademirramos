@@ -31,31 +31,31 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block"><br>
 
-  <img alt="HTML5" height="30" width="40" style="text-decoration: none;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="HTML5" height="30" width="40" style="text-decoration: none; cursor: pointer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
-  <img alt="CSS3" height="30" width="40" style="text-decoration: none;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="CSS3" height="30" width="40" style="text-decoration: none; cursor: pointer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img alt="JS" height="30" width="40" style="text-decoration: none;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="JS" height="30" width="40" style="text-decoration: none; cursor: pointer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-  <img alt="TS" height="30" width="40" style="text-decoration: none;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="TS" height="30" width="40" style="text-decoration: none; cursor: pointer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
-  <img alt="SASS" height="30" width="40" style="text-decoration: none;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img alt="SASS" height="30" width="40" style="text-decoration: none; cursor: pointer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 
-  <img alt="Tailwind CSS" height="30" width="40" style="text-decoration: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+  <img alt="Tailwind CSS" height="30" width="40" style="text-decoration: none; cursor: pointer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
 
-  <img alt="React" height="30" width="40" style="text-decoration: none;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="React" height="30" width="40" style="text-decoration: none; cursor: pointer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-  <img alt="Next JS" height="30" width="40" style="text-decoration: none;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img alt="Next JS" height="30" width="40" style="text-decoration: none; cursor: pointer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 
-  <img alt="Node JS" height="30" width="40" style="text-decoration: none;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="Node JS" height="30" width="40" style="text-decoration: none; cursor: pointer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
-  <img alt="Python" height="30" width="40" style="text-decoration: none;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Python" height="30" width="40" style="text-decoration: none; cursor: pointer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <img alt="PHP" height="30" width="40" style="text-decoration: none;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img alt="PHP" height="30" width="40" style="text-decoration: none; cursor: pointer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
-  <img alt="Git" height="30" width="40" style="text-decoration: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
+  <img alt="Git" height="30" width="40" style="text-decoration: none; cursor: pointer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
-  <img alt="GitHub" height="30" width="40" style="text-decoration: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+  <img alt="GitHub" height="30" width="40" style="text-decoration: none; cursor: pointer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
 </div>
 
