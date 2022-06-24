@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 </div>
 
+<hr>
+
 ### Technologies and Tools:
 
 <div style="display: inline_block"><br>
@@ -56,3 +58,9 @@ Here are some ideas to get you started:
   <img alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
 
 </div>
+
+<hr>
+
+### Contact:
+
+<a href = "ademirramos634@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
