@@ -73,9 +73,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-<<<<<<< HEAD
-![Snake animation](https://github.com/AdemirRamos/AdemirRamos/blob/output/github-contribution-grid-snake.svg)
-=======
   ### My Contributions:
 
 <div align="center">  
@@ -103,4 +100,3 @@ Here are some ideas to get you started:
   - <a href="https://ademirramos.github.io/Count/">Count</a><a href="https://github.com/AdemirRamos/Count"> (Repository)</a>
   - <a href="https://ademirramos.github.io/Menu/">Menu</a><a href="https://github.com/AdemirRamos/Menu"> (Repository)</a>
   - <a href="https://ademirramos.github.io/Draft_Project/">Draft Project</a><a href="https://github.com/AdemirRamos/Draft_Project"> (Repository)</a>
->>>>>>> 8e94e88e41bea7c984ce2aa457bdb12f28cf730b
