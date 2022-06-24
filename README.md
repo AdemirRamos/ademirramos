@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div align="center">
 
   <a href="https://github.com/AdemirRamos">
   
@@ -74,5 +74,29 @@ Here are some ideas to get you started:
 <hr>
 
   ### My Contributions:
+
+<div align="center">  
   
-![Snake animation](https://github.com/ademirramos/ademirramos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ademirramos/ademirramos/blob/output/github-contribution-grid-snake.svg)
+
+</div>  
+  
+<hr>
+
+  ### My Projects:
+
+  - <a href="https://ademirramos.github.io/Home_Page/">Home Page</a>
+  - <a href="https://ademirramos.github.io/Reminder/">Reminder</a>
+  - <a href="https://ademirramos.github.io/Gallery/">Gallery</a>
+  - <a href="https://ademirramos.github.io/Electronic_Urn/">Electronic Urn</a>
+  - <a href="https://ademirramos.github.io/Android/">Android</a>
+  - <a href="https://ademirramos.github.io/Cordel_Moderno/">Cordel Moderno</a>
+  - <a href="https://ademirramos.github.io/Riff_Cordel/">Riff Cordel</a>
+  - <a href="https://ademirramos.github.io/Age_Checker/">Age Checker</a>
+  - <a href="https://ademirramos.github.io/What_Time_Is_It/">What Time Is It?</a>
+  - <a href="https://ademirramos.github.io/Form/">Form</a>
+  - <a href="https://ademirramos.github.io/Number_Analyser/">Number Analyzer</a>
+  - <a href="https://ademirramos.github.io/Tabuada/">Tabuada</a>
+  - <a href="https://ademirramos.github.io/Count/">Count</a>
+  - <a href="https://ademirramos.github.io/Menu/">Menu</a>
+  - <a href="https://ademirramos.github.io/Draft_Project/">Draft Project</a>
