@@ -85,18 +85,18 @@ Here are some ideas to get you started:
 
   ### My Projects:
 
-  - <a href="https://ademirramos.github.io/Home_Page/">Home Page</a>
-  - <a href="https://ademirramos.github.io/Reminder/">Reminder</a>
-  - <a href="https://ademirramos.github.io/Gallery/">Gallery</a>
-  - <a href="https://ademirramos.github.io/Electronic_Urn/">Electronic Urn</a>
-  - <a href="https://ademirramos.github.io/Android/">Android</a>
-  - <a href="https://ademirramos.github.io/Cordel_Moderno/">Cordel Moderno</a>
-  - <a href="https://ademirramos.github.io/Riff_Cordel/">Riff Cordel</a>
-  - <a href="https://ademirramos.github.io/Age_Checker/">Age Checker</a>
-  - <a href="https://ademirramos.github.io/What_Time_Is_It/">What Time Is It?</a>
-  - <a href="https://ademirramos.github.io/Form/">Form</a>
-  - <a href="https://ademirramos.github.io/Number_Analyser/">Number Analyzer</a>
-  - <a href="https://ademirramos.github.io/Tabuada/">Tabuada</a>
-  - <a href="https://ademirramos.github.io/Count/">Count</a>
-  - <a href="https://ademirramos.github.io/Menu/">Menu</a>
-  - <a href="https://ademirramos.github.io/Draft_Project/">Draft Project</a>
+  - <a href="https://ademirramos.github.io/Home_Page/" target="_blank">Home Page</a>
+  - <a href="https://ademirramos.github.io/Reminder/" target="_blank">Reminder</a>
+  - <a href="https://ademirramos.github.io/Gallery/" target="_blank">Gallery</a>
+  - <a href="https://ademirramos.github.io/Electronic_Urn/" target="_blank">Electronic Urn</a>
+  - <a href="https://ademirramos.github.io/Android/" target="_blank">Android</a>
+  - <a href="https://ademirramos.github.io/Cordel_Moderno/" target="_blank">Cordel Moderno</a>
+  - <a href="https://ademirramos.github.io/Riff_Cordel/" target="_blank">Riff Cordel</a>
+  - <a href="https://ademirramos.github.io/Age_Checker/" target="_blank">Age Checker</a>
+  - <a href="https://ademirramos.github.io/What_Time_Is_It/" target="_blank">What Time Is It?</a>
+  - <a href="https://ademirramos.github.io/Form/" target="_blank">Form</a>
+  - <a href="https://ademirramos.github.io/Number_Analyser/" target="_blank">Number Analyzer</a>
+  - <a href="https://ademirramos.github.io/Tabuada/" target="_blank">Tabuada</a>
+  - <a href="https://ademirramos.github.io/Count/" target="_blank">Count</a>
+  - <a href="https://ademirramos.github.io/Menu/" target="_blank">Menu</a>
+  - <a href="https://ademirramos.github.io/Draft_Project/" target="_blank">Draft Project</a>
