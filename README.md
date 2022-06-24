@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 </div>
 
+### Technologies and Tools:
+
 <div style="display: inline_block"><br>
 
   <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
