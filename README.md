@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
   <img alt="Git" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
-  <img alt="GitHub" title="GitHub" height="33" width="33" align="top" src="./Imagens/github.png">
+  <img alt="GitHub" title="GitHub" height="28" width="28" align="bottom" src="./Imagens/github.png">
 
 </div>
 
