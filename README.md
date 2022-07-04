@@ -92,6 +92,7 @@ Here are some ideas to get you started:
   - <a href="https://ademirramos.github.io/Reminder/" target="_blank">Reminder</a><a href="https://github.com/AdemirRamos/Reminder"> (Repository)</a>
   - <a href="https://ademirramos.github.io/Gallery/" target="_blank">Gallery</a><a href="https://github.com/AdemirRamos/Gallery"> (Repository)</a>
   - <a href="https://ademirramos.github.io/Electronic_Urn/">Electronic Urn</a><a href="https://github.com/AdemirRamos/Electronic_Urn"> (Repository)</a>
+  - <a href="https://ademirramos.github.io/Projeto_Redes_Sociais/" target="_blank">Projeto Redes Sociais</a><a href="https://github.com/AdemirRamos/Projeto_Redes_Sociais"> (Repository)</a>
   - <a href="https://ademirramos.github.io/Android/" target="_blank">Android</a><a href="https://github.com/AdemirRamos/Android"> (Repository)</a>
   - <a href="https://ademirramos.github.io/Cordel_Moderno/">Cordel Moderno</a><a href="https://github.com/AdemirRamos/Cordel_Moderno"> (Repository)</a>
   - <a href="https://ademirramos.github.io/Riff_Cordel/">Riff Cordel</a><a href="https://github.com/AdemirRamos/Riff_Cordel"> (Repository)</a>
