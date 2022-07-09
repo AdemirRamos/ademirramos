@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
   <img alt="Node JS" title="Node JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
-  <img alt="jQuery" title="jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg/">
+  <img alt="jQuery" title="jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg/">
 
   <img alt="Jest" title="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
 
