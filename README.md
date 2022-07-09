@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 <hr>
 
   ### My Projects:
-  - <a href="https://ademirramos.github.io/My_Portfolio/" target="_blank">My Portfolio</a><a href="https://github.com/AdemirRamos/My_Portfolio/"> (Repository)</a>
+  - <a href="https://ademirramos.github.io/My_Portfolio/" target="_blank">My Portfolio</a><a href="https://github.com/AdemirRamos/My_Portfolio"> (Repository)</a>
   - <a href="https://ademirramos.github.io/Routes/" target="_blank">Routes</a><a href="https://github.com/AdemirRamos/Routes"> (Repository)</a>
   - <a href="https://ademirramos.github.io/Home_Page/" target="_blank">Home Page</a><a href="https://github.com/AdemirRamos/Home_Page"> (Repository)</a>
   - <a href="https://ademirramos.github.io/Reminder/" target="_blank">Reminder</a><a href="https://github.com/AdemirRamos/Reminder"> (Repository)</a>
