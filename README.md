@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 
   <img alt="Next JS" title="Next JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 
+  <img alt="Styled Components" title="Styled Components" height="30" width="30" align="bottom" src="./Imagens/styled.png">
+
   <img alt="Node JS" title="Node JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
   <img alt="Jest" title="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
